@@ -42,6 +42,6 @@
 ### Team
 
 **Flavio Biondo** — co-founder & CEO · [@Fbiondo00](https://github.com/Fbiondo00)
-**Pietro Jairo Pezzullo** — co-founder & CTO
+**Pietro Jairo Pezzullo** — co-founder & CTO · [@ppezzull](https://github.com/ppezzull)
 
 <div align="center"><sub>Made in Rome 🇮🇹</sub></div>
