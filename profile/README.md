@@ -34,6 +34,7 @@
 
 | Project | What it does |
 |---|---|
+| [**fontis**](https://github.com/CraftaleAgency/fontis) | EU-sovereign document AI with cited answers: multilingual RAG on Spring AI, pgvector and self-hosted LLMs |
 | [**Langfuse-Openai-Proxy**](https://github.com/CraftaleAgency/Langfuse-Openai-Proxy) | OpenAI-compatible proxy that adds per-request Langfuse tracing to any LLM backend |
 | [**Terminia-Frontend**](https://github.com/CraftaleAgency/Terminia-Frontend) | B2B SaaS for Italian SMEs: contracts, invoices, counterparties and public tenders |
 | [**Terminia-Nemoclaw**](https://github.com/CraftaleAgency/Terminia-Nemoclaw) | AI backend for Terminia: sandboxed agents for contract intelligence and OSINT |
